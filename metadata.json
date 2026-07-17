@@ -1,0 +1,6 @@
+{
+  "name": "Analog Film Camera Simulator",
+  "description": "模拟真实胶片相机的拍摄、封存、冲洗与查看体验。一卷26张，冲洗前不可见，带你重温延迟满足、不确定性与仪式感。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
